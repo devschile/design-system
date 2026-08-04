@@ -30,8 +30,8 @@ assets/
 │   │                                 una de las 3 variantes oficiales de DESIGN.md)
 │   ├── huemul-icono-blanco.png     El huemul solo, monocromo blanco (593×665)
 │   ├── huemul-icono-blanco.svg     Igual, ver nota abajo sobre este archivo
-│   ├── devschile-wordmark.png      "<devschile/>", solo texto (639×153)
-│   └── devschile-wordmark.svg      Igual, vector real
+│   ├── devschile-logotipo.png      "<devschile/>", solo texto (639×153)
+│   └── devschile-logotipo.svg      Igual, vector real
 │
 └── favicon/
     ├── favicon.ico                 Multi-resolución (16/32/48), navegadores viejos
@@ -60,7 +60,7 @@ Sirve para cualquier lugar que pida la extensión `.svg`, pero no es un _path_
 editable ni escala con nitidez real ya que sigue siendo un _raster_.
 
 El resto de los `.svg` de `assets/brand/` (`huemul-icono`,
-`huemul-icono-contorno`, `huemul-icono-trazo`, `devschile-wordmark`) **son
+`huemul-icono-contorno`, `huemul-icono-trazo`, `devschile-logotipo`) **son
 vectorizados reales**, con paths editables.
 Si consigues la variante monocroma blanca en vector, reemplaza
 `huemul-icono-blanco.svg` con eso y esta nota deja de aplicar.

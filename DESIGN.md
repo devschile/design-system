@@ -17,16 +17,16 @@ proyecto en vez de copiarlo literal.
 
 devsChile se identifica con un huemul (venado chileno) cuyas astas están
 dibujadas como llaves de código `{ }` — el detalle que conecta la marca con
-"developers". Va acompañado del wordmark `<devschile/>`, escrito como una
+"developers". Va acompañado del logotipo `<devschile/>`, escrito como una
 etiqueta HTML.
 
-| Icono (huemul solo) | Wordmark |
+| Icono (huemul solo) | logotipo |
 |---|---|
-| ![huemul](assets/brand/huemul-icono.png) | ![wordmark](assets/brand/devschile-wordmark.png) |
+| ![huemul](assets/brand/huemul-icono.png) | ![logotipo](assets/brand/devschile-logotipo.png) |
 
-Ambos son parte del kit oficial. El wordmark casi nunca se usa solo — el
+Ambos son parte del kit oficial. El logotipo casi nunca se usa solo — el
 huemul (icono) sirve como favicon/avatar. El imagotipo combinado (huemul +
-wordmark en una sola pieza) no se incluye en este repo, pero está disponible
+logotipo en una sola pieza) no se incluye en este repo, pero está disponible
 en el kit completo (ver "Kit completo de assets" más abajo) para quien lo
 necesite armado.
 
@@ -55,13 +55,13 @@ colores originales:
 | Huemul — claro | `#b45b38` | 180, 91, 56 | 23, 70, 80, 13 | 7585 C |
 | Trazo / texto | `#1d1d1b` | — | — | — |
 
-**Tipografía de marca:** Fira Mono (peso medium). Coherente con el wordmark
+**Tipografía de marca:** Fira Mono (peso medium). Coherente con el logotipo
 en formato de tag HTML — la marca es "de developer" incluso en la
 tipografía.
 
 ### Kit completo de assets
 
-Este repo incluye copias locales del icono, el wordmark y la variante
+Este repo incluye copias locales del icono, el logotipo y la variante
 monocroma blanca (para que este documento no dependa de links externos), pero
 el kit completo — imagotipo combinado, versión vectorial (`.ai`), guía de uso
 en PDF, troquel para stickers, mockups — vive en:
@@ -97,7 +97,7 @@ Fondo oscuro con gradiente sutil (no plano), un solo color de acento vibrante
 usado con disciplina (texto de énfasis, bordes en hover, botones — no en
 todo), tarjetas con efecto vidrio esmerilado (`backdrop-filter: blur`), y
 tipografía monoespaciada en headings para reforzar el tono "hecho por/para
-developers" — mismo espíritu que el wordmark de marca, trasladado a UI.
+developers" — mismo espíritu que el logotipo de marca, trasladado a UI.
 
 ### Color
 
@@ -137,7 +137,7 @@ texto/bordes).
 ```
 
 Todos los headings (`h1`–`h6`) usan la monoespaciada. El body usa una
-sans-serif legible. Es la misma lógica que "Fira Mono" en el wordmark de
+sans-serif legible. Es la misma lógica que "Fira Mono" en el logotipo de
 marca: lo monoespaciado marca jerarquía y refuerza identidad, no se usa para
 todo el texto porque perjudicaría la lectura de párrafos largos.
 
